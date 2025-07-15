@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Shabby6466/Shabby6466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey There 
+I'm Hammad Alee, a passionate Mobile App Developer with expertise in Flutter & Kotlin. I love building high-performance, scalable applications and constantly exploring new technologies to enhance user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Do:
+
+📱 Develop sleek and efficient mobile applications using Flutter & Kotlin
+🔌 Integrate APIs and third-party services for seamless functionality
+🏗️ Follow Clean Architecture & MVVM principles for maintainable code
+🚀 Optimize performance and enhance app responsiveness
+💻 Tech Stack:
+
+Languages: Dart, Kotlin, Java, Python
+Frameworks & Tools: Flutter, Django, Firebase, Agora, Dio, Codemagic, Github Actions, Docker
+Database & Backend: Firestore, Django, SqLite, Drift, Room, REST APIs
+Version Control & CI/CD: GitHub, Codemagic, Bitbucket, Xcode Cloud
+📫 Let's Connect!
+
+    
+Shoaib
