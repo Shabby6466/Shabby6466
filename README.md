@@ -3,7 +3,7 @@
 I'm Shoaib, a passionate Mobile App Developer with expertise in **Flutter**, **Web**, and **Backend Development**. I love building scalable, high-performance apps and continuously explore new technologies to deliver seamless user experiences.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Native+Android+App+Developer.;Flutter+App+Developer.;NESTJS+Developer.;Open+sourse+contributer.)](https://git.io/typing-svg)
-### 🚀 Flutter | Full Stack Developer
+### 🚀 Flutter | NEST JS | Full Stack Developer
 
 ---
 
